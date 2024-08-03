@@ -51,6 +51,7 @@ public class Calculator {
     } finally {
       scanner.close();
     }
+
   }
 }
 
